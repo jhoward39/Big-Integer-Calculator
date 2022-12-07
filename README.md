@@ -27,3 +27,11 @@ In this project, we define class `BigInt` and we will only consider ***unsigned 
 
 In the `BigInt` class, an integer is stored in a *list*. ***Each slot in the list stores one digit of the integer***.
 
+Example:
+'std::string postfix = infixToPostfix("4967389882834 * 44085839929");
+  cout << postfix << endl;
+  ds::BigInt r = evaluatePostfix(postfix);
+  cout << " = " << r << endl;
+}'
+
+<img width="871" alt="Screenshot 2022-12-07 at 1 01 25 PM" src="https://user-images.githubusercontent.com/70383367/206260543-da9bd3ad-1e6d-498c-89dd-656367ce432a.png">
