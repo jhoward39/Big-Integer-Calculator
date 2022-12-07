@@ -1,6 +1,6 @@
 # Proj 1: Integers of Unlimited Size 
 
-The project includes two parts. In the first part I implement class `BigInt` to store integers of unlimited size. In the second part, you will use *stack* to simulate a calculator for big integers.
+The project includes two parts. In the first part I implement class `BigInt` to store integers of unlimited size. In the second part, I use *stack* to simulate a calculator for big integers.
 
 
 ## 1. Implement `BigInt`
