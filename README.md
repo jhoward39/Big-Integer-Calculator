@@ -18,8 +18,9 @@ In 32-bit or 64-bit systems, it is almost exclusively guaranteed to have width o
 Suppose on our machine an `int` is 32 bits wide.
 This means in memory the Operating System (OS) will use a memory cell of *32 bits* (= 4 bytes) to store an integer of type `int`.
 The maximum and minimum value of such an integer are `2^31-1` and `-2^31`. The `31` here is due to the dedicated sign bit.
-You can read these values using functions defined in [`std::numeric_limits`](http://www.cplusplus.com/reference/limits/numeric_limits/).
 Any integer that is greater than the `2^31-1` or less than `-2^31` cannot be correctly stored and represented by `int`.
+
+The calculator portion uses postfix calculation in order to compute the value of strings from left to right.
 
 ### 1.2. The `BigInt` class
 
