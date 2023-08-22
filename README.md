@@ -1,8 +1,4 @@
 
-<img width="871" alt="Screenshot 2022-12-07 at 1 01 25 PM" src="https://user-images.githubusercontent.com/70383367/206260543-da9bd3ad-1e6d-498c-89dd-656367ce432a.png">
-
-44085839929 4967389882834 218991555239553788878786
-
 # Overview
 
 The project includes two parts. In the first part I implement class `BigInt` to store integers of unlimited size. In the second part, I use *stack* to simulate a calculator for big integers. The photo above shows 
