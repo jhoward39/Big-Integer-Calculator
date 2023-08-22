@@ -3,7 +3,7 @@
 
 # Overview
 
-The project includes two parts. In the first part I implement class `BigInt` to store integers of unlimited size. In the second part, I use *stack* to simulate a calculator for big integers.
+The project includes two parts. In the first part I implement class `BigInt` to store integers of unlimited size. In the second part, I use *stack* to simulate a calculator for big integers. The photo above shows 
 
 
 ## 1. Implement `BigInt`
